@@ -1,0 +1,200 @@
+<ul>
+                <li>
+                    <div class="img_box">
+                        <img src="img/img_review01.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@cosyoontic_s2</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>글로시한 제형의 실버색에 늘 요련 색 쉬머리한 피치핑크 취저당함 절대 안바를것같은 올리브색 아이라인 대신 쓸 수 있는 그레이빛이 감도는 초코브라운,, 뭐 매료되서 홀린듯 구매함👽👽🎶 습식파우더 타입이 유행인가봐요 올 여름 저 피치핑크를 아주 약하게 눈두덩이에 펴바르고 뷰러 앤 마스카라 쫙 하고 살 한 10키로만 빼면 조녜메이컵 완성😉 사은품으로 받은 철가방도 왠지 전문가적인 포스가 나고,,,옛날 스텐김치통도 생각나고👽🤍 herabeauty_official #헤라엑스커베이션에디팅박스</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_powder.jpg" alt="1">
+                        </div>
+                        <p>엑스커베이션 에디팅 박스</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+                <li>    
+                    <div class="img_box">
+                        <img src="img/img_review02.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@wbma_j</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>#생일선물 @herabeauty_official 헤라 센슈얼 파우더 매트 리퀴드💄 color: 133 베이비 치크 baby cheek 제가 사용한 컬러는 핑크 베이지 컬러예요! 생각보다는 약간 진한 컬러였어요! (개인적인 의견은 참고만 하세용!) 헤라 센슈얼 파우더 매트 리퀴드는 부드럽게 발려지면서 자연스럽게 스머징되는 소프트 블러링 효과가 있어요!🫧또 입술뿐만 아니라 치크나 아이에 멀티유즈로 사용할수있어서 완전 일석 이조! 삼조! ( ˃᷄˶˶̫˶˂᷅ ) 💗 #헤라 #hera #헤라틴트 #헤라립스틱 #센슈얼파우더매트리퀴드 #매트 #멀티유즈아이템 #소프트블러링효과 #뉴트럴소프트룩 #코덕 #카카오톡선물하기 #메이크업 #makeup #메이크업아티스트 #makeupartist</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_lipPink.jpg" alt="1">
+                        </div>
+                        <p>센슈얼 파우터 매트 리퀴드</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+                <li>
+                    <div class="img_box">
+                        <img src="img/img_review03.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@dhkk</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>@herabeauty_official × 39etc 실버성애자는 참지 못하고 그만...! 케이스의 빈티지한 질감 구현, 충분히 만족을 주는 패키지 구성, 제품력이 보장된 근본 스테디셀러 라인. ..-이상, 지갑을 열 수 밖에 없었던 이유ᅲ헤헷</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_baseWhite.jpg" alt="1">
+                        </div>
+                        <p>엑스커베이션 블랙 쿠션</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+                <li>
+                    <div class="img_box">
+                        <img src="img/img_review04.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@hoshiicosme</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>韓国流ベーシックの最上級🩰 ⁡ HERA @herabeauty_official amorepacific_beauty_jp QUAD EYE COLOR Delicate Rose ⁡ 10.5g/¥7150 ⁡ heraの新作は待望のアイシャドウパレット。 発表された時から買うのを楽しみにしていました。 ⁡ マット3色にラメ1色と 韓国コスメでよくある構成だけど、 他にない上品な色や質感はさすがhera。 ⁡ 2番のデリケートローズは ニュートラルなピンクベージュで デイリーメイクにぴったり。⁡ hera様なのでお値段もしっかりデパコス価格。 。 わたしが買った時はメガ割直前に アモーレパシフィックのプレメガ割のクーポン (メガ割と同じ20%オフ)が出ていたので、 メガ割開始の数日前から要チェック。 ⁡ ついでにリニューアルした センシュアルヌードグロス 462 speechlessと グロスについてきたおまけのネイルキット、 アイシャドウのおまけも載せておきます📷</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_lipNude.jpg" alt="1">
+                        </div>
+                        <p>센슈얼 누드 글로스</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+                <li>
+                    <div class="img_box">
+                        <img src="img/img_review05.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@cherry_blossom_glow</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>turning myself into taeyeon from the invu music video!💘🌙✨ i was inspired to do this after getting my spotify wrapped list and discovering it was one of my most frequently played songs this years! second picture is my inspiration from the mv! invu has a mythology/artemis theme and i think it’s the most aesthetic music video i’ve ever seen😫 third photo is the collection of products used though i believe i missed a few which will be included in products list! as you can probably tell, the first photo has a lot of photoshopping of skin texture. i’ve been practicing with photoshop and it’s really interesting to me just how much editing goes into media to get that perfect skin look. i included an unedited photo at the end for comparison to see how different skin texture looks in real life vs edited!</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_baseBlack.jpg" alt="1">
+                        </div>
+                        <p>블랙 쿠션 SPF 34 / PA++</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+                <li>
+                    <div class="img_box">
+                        <img src="img/img_review06.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@jungwon7_7</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>주말 많이 보고 많이 걷기 🤍 39etc x @herabeauty_official</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_powder.jpg" alt="1">
+                        </div>
+                        <p>엑스커베이션 에디팅 박스</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+                <li>
+                    <div class="img_box">
+                        <img src="img/img_review07.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@najindaun</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>#nazy_cosmetic herabeauty_official #데일리립 #데일리립스틱 #립스틱 #립스틱추천 #립글로즈 #립글로스 #팩트 #팩트추천 #헤라 #헤라팩트 #헤라쿠션 #헤라쿠션팩트 #헤라글로우쿠션 #헤라센슈얼누드글로스 #462 #스피치리스</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_lipNude.jpg" alt="1">
+                        </div>
+                        <p>센슈얼 누드 글로스</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+                <li>
+                    <div class="img_box">
+                        <img src="img/img_review08.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@cosyoontic_s2</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>글로시한 제형의 실버색에 늘 요련 색 쉬머리한 피치핑크 취저당함 절대 안바를것같은 올리브색 아이라인 대신 쓸 수 있는 그레이빛이 감도는 초코브라운,, 뭐 매료되서 홀린듯 구매함👽👽🎶 습식파우더 타입이 유행인가봐요 올 여름 저 피치핑크를 아주 약하게 눈두덩이에 펴바르고 뷰러 앤 마스카라 쫙 하고 살 한 10키로만 빼면 조녜메이컵 완성😉 사은품으로 받은 철가방도 왠지 전문가적인 포스가 나고,,,옛날 스텐김치통도 생각나고👽🤍 herabeauty_official #헤라엑스커베이션에디팅박스</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_powder.jpg" alt="1">
+                        </div>
+                        <p>엑스커베이션 에디팅 박스</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+                <li>
+                    <div class="img_box">
+                        <img src="img/img_review09.jpg" alt="img">
+                    </div>
+                    <div class="user_box">
+                        <span>@beauty.mushroom</span>
+                        <div class="share">
+                            <a href="javascript:;"><img src="img/icon_face.png" alt="facebook"></a>
+                            <a href="javascript:;"><img src="img/icon_twitt.png" alt="twitter"></a>
+                            <a href="javascript:;"><img src="img/icon_pin.png" alt="pinterest"></a>
+                            <a href="javascript:;"><img src="img/icon_tum.png" alt="tumbler"></a>
+                        </div>
+                    </div>
+                    <p>#상품제공 @herabeauty_official 청량한 패키지부터 완전 촉촉한 수분감까지 #수부지피부 를 홀딱 반하게 한 #헤라 #하이드로리플렉팅 마이크로크림 ❤️ 수분감 듬뿍담긴 촉촉한 젤크림제형에 자세히 보면 몽글몽글한 캡슐들이 보이는데요, 가볍 게 롤링하면 캡슐들도 피부에 부드럽게 싸악 녹아들어 #수분광채 뿜뿜하는 촉촉한 피부로 만들어줘요 😘 가볍고 산뜻한 사용감에다 피부 속까지 가득 채워져 오래가는 수분감! 완전 저같은 수부지 #스킨케어 에 찰떡이에요 😍😍 #옾티 #수분비타민 #화장품리뷰 #스킨케어덕후 #수분크림추천 #수분크림 #skincare #koreanskincare</p>
+                    <div class="show_product">
+                        <div class="img_product">
+                            <img src="img/img_sale_cream.jpg" alt="1">
+                        </div>
+                        <p>하이드로 리플렉팅 마이크로 크림</p>
+                        <button>구매하기</button>
+                    </div>
+                </li>
+            </ul>
