@@ -14,8 +14,8 @@ Demo: <http://jin1404.dothome.co.kr>
 ### 🛠️ 사용 기술
 * HTML
 * CSS
-* Javascript
 * jQuery
+* Media Query 
 
 
 ### 💎 주요 기능
@@ -135,6 +135,7 @@ $('#review>.modal>ul>li>.show_product').mouseout(function(){
 })
 ~~~
 * 팝업 모달 동작 설계
+* 미디어 쿼리를 이용한 전체 페이지 개발
 
 
 ### 💡 개선 사항
