@@ -20,10 +20,10 @@ Demo: <http://jin1404.dothome.co.kr>
 ![작동예시](https://github.com/SeonJin-H/hera/blob/main/proto01.png)
 ~~~
 var index = 1; 
-var slide_click_s = true; 
-var slide_play_s = true; 
+var slide_click_s = true;  //클릭연사방지
+var slide_play_s = true;  //재생정지버튼
 
-function slide(e){ 
+function slide(e){  //버튼클릭
   if(slide_click_s == true){
     slide_click_s = false;
     setTimeout(function(){
@@ -50,7 +50,7 @@ function slide(e){
   }
 }
 
-function dot(e){ 
+function dot(e){  //페이지네이션
   index = e;
   $('#main_slide ul').css({'left' : index * -100 + '%', 'transition' : '0.3s'});
   $('#main_slide .button .dot a').css('width', '14px');
@@ -58,7 +58,7 @@ function dot(e){
 
 }
 
-var play_stop = setInterval(function() { 
+var play_stop = setInterval(function() {  //재생정지
   slide(1);
 }, 5000);
 
@@ -80,7 +80,57 @@ function play() {
 ~~~
 
 * 제어문을 이용한 라이브러리 모방 슬라이드 제작
-![작동에시](https://github.com/SeonJin-H/hera/blob/main/proto02.png)
+![작동에시](https://github.com/SeonJin-H/hera/blob/main/proto02_re.png)
+~~~
+var num = 0; 
+var num_modal = 0; 
+var SWITCH = true;  //클릭연사방지
+
+function btn(e){  //슬라이드
+
+  if(SWITCH == true){
+    SWITCH = false;
+    setTimeout(function(){
+      SWITCH = true;
+    }, 300)
+
+    num += e;
+    if(num < 0) num = 0;
+    if(num > 5) num = 5;
+
+    $('#review>.view>ul').css('left', -250 * num + 'px');
+  }
+
+}
+
+function view(e){  //클릭이벤트
+  num_modal = e;
+  $('.modal').show();
+  $('.modal ul li').eq(num_modal).show();
+}
+
+function btn_modal(e){  //모달슬라이드
+  num_modal += e;
+  if(num_modal < 0) num_modal = 0;
+  if(num_modal > 8) num_modal = 8;
+
+  $('.modal ul li').hide();
+  $('.modal ul li').eq(num_modal).show();
+}
+
+$('button.close').click(function(){
+  $('.modal').hide();
+  $('.modal ul li').hide();
+})
+
+//모달상세
+$('#review>.modal>ul>li>.show_product').mouseover(function(){
+    $('#review>.modal>ul>li>.show_product').css('opacity','1');
+})
+$('#review>.modal>ul>li>.show_product').mouseout(function(){
+    $('#review>.modal>ul>li>.show_product').css('opacity','0');
+})
+~~~
 * 팝업 모달 동작 설계
 
 
