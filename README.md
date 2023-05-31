@@ -1,6 +1,6 @@
 # Markup-Project-HERA
 자바스크립트 및 제이쿼리를 이용한 반응형 쇼핑몰 웹사이트 구축
-
+![목업](https://github.com/SeonJin-H/hera/blob/main/hera_mockup.png)
 Demo: <http://jin1404.dothome.co.kr>
 
 
@@ -77,3 +77,4 @@ function play() {
   }
 }
 ~~~
+* 제어문을 이용한 라이브러리 모방 슬라이드 구현
