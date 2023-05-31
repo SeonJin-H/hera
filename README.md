@@ -141,3 +141,7 @@ $('#review>.modal>ul>li>.show_product').mouseout(function(){
 ### 💡 개선 사항
 * new/best 자세히보기 버튼에 hover 이벤트 추가 필요
 * 모바일 모드 시 최하단 슬라이드 이동값 해결 필요
+
+### 🖥️  작업 기여
+*	웹사이트 전체 구축
+*	기여도 100%
