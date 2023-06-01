@@ -19,7 +19,7 @@ Demo: <http://jin1404.dothome.co.kr>
 
 
 ### 💎 주요 기능
-* 제이쿼리에서 제공하는 메소드를 이용한 슬라이드 무한루프 동작 및 재생정지 기능 구현
+* 자바스크립트 및 제이쿼리에서 제공하는 메소드를 이용한 슬라이드 무한루프 동작 및 재생정지 기능 구현
 ![작동예시](https://github.com/SeonJin-H/hera/blob/main/proto01.png)
 ~~~
 var index = 1; 
@@ -82,7 +82,7 @@ function play() {
 }
 ~~~
 
-* 제어문을 이용한 라이브러리 모방 슬라이드 제작
+* 제어문을 이용한 플러그인 기능 모방 이동 슬라이드 제작 
 ![작동에시](https://github.com/SeonJin-H/hera/blob/main/proto02_re.png)
 ~~~
 var num = 0; 
